@@ -4,7 +4,8 @@ A. IF
 C. EX  
 D. MEM  
 E. It depends on instruction types
-2. In which stage is RegWrite used?  
+  
+3. In which stage is RegWrite used?  
 A. IF  
 B. ID  
 C. EX  
